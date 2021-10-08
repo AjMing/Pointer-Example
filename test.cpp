@@ -13,12 +13,10 @@ int main(int argc, char **argv) {
 
 
   }
-  
+
 
   //atoi atof
  
-
-  cout<< atoi(*(argv+1)) + atoi(*(argv+2)) <<endl;
 
   //cout<< *(*(argv+2)+3) <<endl;// ->v
 	return 0;

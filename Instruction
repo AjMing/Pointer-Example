@@ -1,0 +1,5 @@
+  1.  create pointer 
+       int *arr;
+   2.  put you interger argument into that arr
+   3. Find the minimum value in that arr 
+   4. display the minimum value
