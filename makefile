@@ -3,7 +3,7 @@ compile: test.cpp
 
 
 run: test
-	 .test
+	 ./test
 
 
 clean: test
